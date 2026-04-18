@@ -1,0 +1,16 @@
+# Ayarlar ve Özel Veriler
+config.json
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam
+venv/
+.env
+
+# Windows klasör dosyaları
+Thumbs.db
+desktop.ini

@@ -1,0 +1,7 @@
+bleak
+pystray
+Pillow
+keyring
+pyautogui
+plyer
+pywin32
